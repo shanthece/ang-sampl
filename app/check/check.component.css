@@ -1,0 +1,5 @@
+.pointer{cursor: pointer}
+ul.listnone li span{float: right;opacity: 0.5}
+ul.listnone li{padding: 5px}
+ul.listnone li:hover{background: #a4c8e4}
+ul.listnone li span:hover{opacity: 1;cursor:pointer}
