@@ -1,2 +1,2 @@
-# ang-sampl
-My first repository
+# ang-sample
+Sample project let you access from anywhere.
